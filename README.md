@@ -1,0 +1,3 @@
+The OMDB Movie React App is a lightweight web application built with React, allowing users to easily search for information about movies. With a simple and intuitive interface, users can quickly find details about their favorite movies, including titles, release years, plot summaries, and poster images. Powered by the OMDB (Open Movie Database) API, this app provides an efficient way to discover and explore a vast collection of movies. Whether you're looking for information about classic films or the latest blockbusters, the OMDB Movie React App has you covered.
+
+# to run the file we should use the command npm start.
